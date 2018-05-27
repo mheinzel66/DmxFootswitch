@@ -5,8 +5,8 @@
 #define DMX_CHANNEL  1 
 #define DMX_VALUE_ON  255 
 #define DMX_VALUE_OFF  0 
-#define SWITCH_ON  1   
-#define SWITCH_OFF 0  
+#define SWITCH_ON  0   
+#define SWITCH_OFF 1  
 
 //#define DEBUG_ON
 
